@@ -1,5 +1,5 @@
 # dogs
 
-Dogs API part 2 of 3.
+Dogs API part 3 of 3.
 
-[Live Site]()
+[Live Site](https://bradforddean1.github.io/dogs3/.)
